@@ -48,10 +48,8 @@ Hi, I am Hemant Kumar Vishwakarma
   <img src="https://skillicons.dev/icons?i=dotnet,html,css,bootstrap" height="50" alt=".NET and Web" />
 
   <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,oracle,postgres" height="50" alt="Databases" />
-
-  <!-- Cloud / DevOps -->
-  <img src="https://skillicons.dev/icons?i=azure,aws,git,github" height="50" alt="Cloud and DevOps" />
+  <img src="https://skillicons.dev/icons?i=sqlserver,mysql,oracle" height="50" alt="Databases" />
+<!--<img src="https://skillicons.dev/icons?i=azure,aws,git,github" height="50" alt="Cloud and DevOps" />-->
 
 </p>
 
@@ -87,11 +85,11 @@ Hi, I am Hemant Kumar Vishwakarma
 
 </p>
 
-<h3>☁️ Cloud, DevOps & Integration</h3>
+<h3>☁️ Cloud, Integration</h3>
 
 <p align="left">
 
-  <img src="https://skillicons.dev/icons?i=azure,aws,docker,git,github" height="50" />
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github" height="50" />
 
   <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge" />
 
@@ -106,7 +104,7 @@ Hi, I am Hemant Kumar Vishwakarma
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=HKV507&show_icons=true&theme=dark" />
 </p>
 
 ---
@@ -114,7 +112,7 @@ Hi, I am Hemant Kumar Vishwakarma
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=dark" />
+  <img src="https://streak-stats.demolab.com?user=HKV507&theme=dark" />
 </p>
 
 ---
@@ -122,11 +120,11 @@ Hi, I am Hemant Kumar Vishwakarma
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/hemantvishwakarma359">
     LinkedIn
   </a>
   |
-  <a href="https://github.com/HKV507/hemantvishwakarma">
+  <a href="https://github.com/HKV507">
     Portfolio
   </a>
 </p>
