@@ -1,4 +1,4 @@
-# HKV507
+<!--# HKV507-->
 Hi, I am Hemant Kumar Vishwakarma
 
 <p align="center">
@@ -6,7 +6,7 @@ Hi, I am Hemant Kumar Vishwakarma
 </p>
 
 <h1 align="center">
-  Hi 👋, I'm Hemant Vishwakarma
+  Hi 👋, I'm Hemant Kumar Vishwakarma
 </h1>
 
 <h3 align="center">
@@ -14,7 +14,7 @@ Hi, I am Hemant Kumar Vishwakarma
 </h3>
 
 <p align="center">
-  C# • .NET Core • ASP.NET Core • SQL Server • Azure • Python • GenAI
+  C# • .NET Core • ASP.NET Core • TypeScript • JavaScript • JQuery • Oracle • mySQL • SQL Server • Azure • Python • Prompt Engineering • Generative AI
 </p>
 
 ---
